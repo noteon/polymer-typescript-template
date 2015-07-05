@@ -1,0 +1,15 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "polymer/polymer.d.ts": {
+      "commit": "625cd68fed45e3230393af71bcde1d36706f3d56"
+    },
+    "webcomponents.js/webcomponents.js.d.ts": {
+      "commit": "625cd68fed45e3230393af71bcde1d36706f3d56"
+    }
+  }
+}
