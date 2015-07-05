@@ -3,7 +3,7 @@
 ## prerequisites
 
 * node.js
-* npm install -g bower light-server
+* npm install -g bower light-server typescript
 
 ## install bower polymer
 	bower update
