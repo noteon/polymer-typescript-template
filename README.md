@@ -3,11 +3,13 @@
 ## prerequisites
 
 * node.js
-* npm install -g bower light-server typescript
+* npm install -g bower light-server typescript tsd
 
 ## install bower polymer
 	bower update
 	
+## install typescript typings
+	tsd update --save
 	
 ## Run in browser
 
